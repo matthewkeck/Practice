@@ -1,3 +1,5 @@
+## Matthew R Keck 6/3/2022
+
 from win32gui import GetWindowText, GetForegroundWindow
 from datetime import datetime
 import subprocess
